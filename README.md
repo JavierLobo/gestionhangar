@@ -1,2 +1,3 @@
 # gestionhangar
-Prueba para una empresa, el objetivo es contruir una aplicacion para la Gestion de un hangar 
+
+Prueba cuyo objetivo es contruir una aplicacion para la Gestion de un hangar 
